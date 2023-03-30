@@ -1,0 +1,1 @@
+# R_boruta data: network/cnn/SCD/dataset(13W)
