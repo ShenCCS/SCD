@@ -1,1 +1,4 @@
+( m + v + c) = mean + var + cv data 
+First_mix  = mean + var data
 
+# ALFF and FC split
