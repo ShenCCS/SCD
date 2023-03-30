@@ -1,1 +1,4 @@
+only ALFF
+
+FC over 25MB
 
