@@ -2,3 +2,5 @@
 First_mix  = mean + var data
 
 # ALFF and FC split
+
+data route : network/cnn/SCD/feture_selection
