@@ -1,4 +1,6 @@
-only ALFF
+----  only ALFF  ----
 
-FC over 25MB
+FC too big 
+
+data Route : network/cnn/SCD/For_Regression_dataset
 
