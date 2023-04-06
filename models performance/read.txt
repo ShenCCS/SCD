@@ -1,1 +1,3 @@
+CATBOOST、MPLR、XGBOOST、LGBM
 
+data => mean + var + cv
