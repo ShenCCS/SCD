@@ -7,3 +7,5 @@ python 3.7.13
 
 conda env : SCD
 
+## Feature selection
+> * Program `R_boruta_Ad8Moca.R`
