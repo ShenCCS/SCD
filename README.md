@@ -1,12 +1,10 @@
 # SCD (Subjective-Cognitive-Decline-Brain)
 ## Enviroment
-
-Ubuntu 18.04  
-
-python 3.7.13  
-
-conda env : SCD
-
+* Ubuntu 18.04  
+* python 3.7.13  
+* conda env : SCD
+> requirements.txt
+> 
 ## Feature selection
 * Select importance features (AD8 and MOCA)  
 * data : mean + var + cv (AD8 and MOCA split)  
